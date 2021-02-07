@@ -33,7 +33,7 @@ input.onButtonPressed(Button.B, function () {
             . # # # .
             . # # # .
             . . # . .
-            . . # . .
+            . # . # .
             `)
         basic.pause(100)
         basic.showLeds(`
